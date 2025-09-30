@@ -1,4 +1,4 @@
-Love or War -cTic Tac Toe Game
+Love or War - Tic Tac Toe Game
 A simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. This web-based game allows two players to compete by taking turns marking spaces in a 3x3 grid. It features dynamic game status updates, win/draw detection, and an easy-to-use restart button, all presented in a visually appealing and responsive layout.
 
 Features:
