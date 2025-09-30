@@ -1,18 +1,26 @@
 Love or War - Tic Tac Toe Game
-A simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. This web-based game allows two players to compete by taking turns marking spaces in a 3x3 grid. It features dynamic game status updates, win/draw detection, and an easy-to-use restart button, all presented in a visually appealing and responsive layout.
 
-Features:
+A web-based, two-player Tic Tac Toe game themed “Love or War.” Built purely with HTML, CSS, and JavaScript, it’s designed for instant fun without any setup or dependencies.
 
-1)Classic Tic Tac Toe gameplay with a 3x3 grid for two players.
+<img width="1440" height="900" alt="Screenshot 2025-10-01 at 12 11 00 AM" src="https://github.com/user-attachments/assets/3cab7b5b-bb05-4f92-999f-48e9810baa78" />
 
-2)Interactive cell marking by clicking on grid spaces.
 
-3)Real-time turn indication showing which player's turn it is.
+### Features
+1. Classic 3x3 grid gameplay for two players.
+2. Click to mark cells; easy and intuitive controls.
+3. Real-time turn indicator.
+4. Automatic win/draw detection with clear messages.
+5. Restart button—no need to refresh the page.
+6. Responsive design for desktop and mobile.
+7. No external dependencies.
 
-4)Automatic detection of wins and draws with clear messages.
+### Getting Started
+1. Clone this repository.
+2. Open `index.html` in your browser.
+3. Play!
 
-5)Restart button to reset the game state without refreshing the page.
+### License
+MIT
 
-6)Responsive design with custom styling for an engaging user experience.
-
-7)Built purely with HTML, CSS, and JavaScript—no external dependencies.
+### Contributions
+Contributions are welcome! Feel free to open issues or submit pull requests.
